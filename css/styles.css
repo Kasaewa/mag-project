@@ -105,7 +105,7 @@ html {
   align-items: center;
   padding: 24px 32px;
   min-width: 263px;
-  max-width: 348px;
+  
   background: linear-gradient(
     80.23deg,
     #e8652d -4.25%,
@@ -126,6 +126,10 @@ html {
 
 .cta-btn {
   width:100%;
+}
+
+.hero-link {
+  max-width: 348px;
 }
 
 .hero-link:hover,
