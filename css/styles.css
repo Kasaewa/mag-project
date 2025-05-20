@@ -124,6 +124,10 @@ html {
   transition: 200ms;
 }
 
+.cta-btn {
+  width:100%;
+}
+
 .hero-link:hover,
 .cta-btn:hover {
   background: linear-gradient(
