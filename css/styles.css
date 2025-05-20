@@ -53,6 +53,7 @@ html {
   padding: 100px 0px;
   max-width: 1440px;
   background: url(../images/hero.png);
+  margin: 0 auto;
 }
 
 .hero-container {
